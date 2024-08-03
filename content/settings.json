@@ -1,38 +1,36 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "siteUrl": "https://lingjikong.netlify.app/",
+    "title": "Lingji Kong's Portfolio",
+    "titleTemplate": "%s · Me",
+    "description": "",
+    "author": "Lingji Kong",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "@2024 lingji kong",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/nemonemonee",
+      "lab": "https://www.xenobot.group/team",
+      "linkedin": "https://www.linkedin.com/in/lingji-kong-b4686b244/",
+      "mail": "mailto:lingjikong2024@u.northwestern.edu"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "LingJi" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "About Me", "url": "/#about" },
+        { "label": "Projects", "url": "/blog" },
+        { "label": "Publications", "url": "/#features" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
-        "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/resume"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "openNewTab": true, "label": "Xenobot Lab", "url": "https://www.xenobot.group/team" },
+        { "openNewTab": true, "label": "Northwestern University", "url": "https://www.mccormick.northwestern.edu/computer-science/" }
       ]
     },
     "featureToggles": {
