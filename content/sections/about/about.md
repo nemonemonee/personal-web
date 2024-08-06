@@ -1,6 +1,6 @@
 ---
-imageSrc: "../../images/me.jpg"
-imageAlt: "About Me"
+imageSrc: "../../images/about.JPG"
+imageAlt: "Me at the lab"
 ---
 
 I am currently working as a research assistant at Northwestern University in the Xenobot Lab. Our lab is dedicated to creating innovative simulations, robots, and AI systems towards understanding how animals evolve, grow, move, sense, and think. My personal research interests lie in natural language processing , and issues of replicability, generalizability, and interpretability in machine learning models.

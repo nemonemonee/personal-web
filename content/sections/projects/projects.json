@@ -2,19 +2,63 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ Kaggle Competition",
-      "title": "Silver Medal Solution",
-      "description": "...",
-      "tags": ["Pytorch", "Pytorch Lightning"],
+      "category": "🏅 Kaggle Competition",
+      "title": "Silver Medal Solution in the competition of “Atmospherical Physics using AI”",
+      "description": "Our solution leverages the PyTorch Lightning framework for training, utilizing transformer encoder-based architectures. We presented a column-wise ensemble method for post-processing. Other techniques, including rotary positional encoding, data normalization, and log transformation, also helped us achieve a good score.",
+      "tags": ["Pytorch", "Pytorch Lightning", "Optuna"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
+        "src": "../../images/leap.png",
+        "alt": "overview",
+        "linkTo": "https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim/overview"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nemonemonee/leap-silver-medal-solution"
+        },
+        {
+          "type": "external",
+          "url": "https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim/discussion/523105"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🎓 Academic Project",
+      "title": "Interactive 3D Visualization",
+      "description": "This interactive 3D visualization project utilizes WebGL to generate a dynamic, real-time rendering environment directly in the browser. It features intuitive controls for manipulating the 3D environment, including zoom, rotate, and pan functionalities. Advanced shading and lighting techniques enhance the realism and depth of the 3D scenes, while creative distortion effects add a unique visual flair, further enriching the interactive experience.",
+      "tags": ["WebGL", "HTML", "Graphics"],
+      "image": {
+        "src": "../../images/webgl.png",
+        "alt": "overview",
+        "linkTo": "https://my-webgl-project.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nemonemonee/my-webgl-project"
+        },
+        {
+          "type": "external",
+          "url": "https://my-webgl-project.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🎓 Academic Project",
+      "title": "on AWS",
+      "description": "...",
+      "tags": ["AWS"],
+      "image": {
+        "src": "",
+        "alt": "overview",
         "linkTo": ""
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com"
+          "url": "https://github.com/nemonemonee/"
         },
         {
           "type": "external",
@@ -24,18 +68,67 @@
     },
     {
       "visible": true,
-      "category": "🧰 Academic Project",
-      "title": "3D Viewer",
+      "category": "🎓 Academic Project",
+      "title": "Cross Domain Text Summarization",
       "description": "...",
-      "tags": ["WebGL", "Graphics"],
+      "tags": ["NLP"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "",
+        "alt": "overview",
+        "linkTo": ""
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/"
+          "url": "https://github.com/nemonemonee/"
+        },
+        {
+          "type": "external",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🎓 Academic Project",
+      "title": "Evolving Robots",
+      "description": "...",
+      "tags": ["NLP"],
+      "image": {
+        "src": "",
+        "alt": "overview",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nemonemonee/"
+        },
+        {
+          "type": "external",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🎓 Academic Project",
+      "title": "Farming Simulator",
+      "description": "...",
+      "tags": ["Game Development", "Unity", "C#"],
+      "image": {
+        "src": "",
+        "alt": "overview",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nemonemonee/"
+        },
+        {
+          "type": "external",
+          "url": ""
         }
       ]
     }
@@ -43,6 +136,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/"
+    "url": "https://github.com/nemonemonee"
   }
 }

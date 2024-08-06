@@ -6,7 +6,7 @@ export default function ResumePage() {
     <>
       <Seo title="Resume" useTitleTemplate={true} noIndex={true} />
       <Page>
-        <LegalSection sectionId="cv" heading="Resume" />
+        <LegalSection sectionId="cv" heading="Lingji Kong" />
       </Page>
     </>
   );
