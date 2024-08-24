@@ -16,7 +16,11 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "LingJi" },
+    "logo": { "image": {
+                "src": "../../images/name_white.png",
+                "alt": ""
+              } 
+            },
     "navigation": {
       "header": [
         { "label": "About Me", "url": "/#about" },

@@ -15,27 +15,51 @@
             }
         },
         {
-            "label": "LangChain"
+            "label": "LangChain",
+            "image": {
+                "src": "../../images/joystick.png",
+                "alt": ""
+            }
             
         },
         {
-            "label": "Pandas"
+            "label": "Pandas",
+            "image": {
+                "src": "../../images/joystick.png",
+                "alt": ""
+            }
    
         },
         {
-            "label": "XGBoost"
+            "label": "XGBoost",
+            "image": {
+                "src": "../../images/joystick.png",
+                "alt": ""
+            }
     
         },
         {
-            "label": "WebGL"
+            "label": "WebGL",
+            "image": {
+                "src": "../../images/joystick.png",
+                "alt": ""
+            }
  
         },
         {
-            "label": "Pytorch Lightning"
+            "label": "Pytorch Lightning",
+            "image": {
+                "src": "../../images/joystick.png",
+                "alt": ""
+            }
 
         },
         {
-            "label": "Polars"
+            "label": "Polars",
+            "image": {
+                "src": "../../images/joystick.png",
+                "alt": ""
+            }
         }
     ],
     "button": {

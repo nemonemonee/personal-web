@@ -2,7 +2,7 @@
   "intro": "Hi there 👋",
   "heroPhoto": {
     "src": "../../images/me.jpg",
-    "alt": ""
+    "alt": "me"
   },
   "image": {
     "src": "",
@@ -17,6 +17,6 @@
   "description": "Research Assistant @ Northwestern University",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "instagram",  "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }
