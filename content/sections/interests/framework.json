@@ -1,5 +1,5 @@
 {
-    "frameworks": [
+    "framework": [
         {
             "label": "AWS",
             "image": {

@@ -6,7 +6,7 @@ sectionId: cv
 - **Phone:** +1 (617)-909-2833
 - **Printer-friendly version:** [Download here](/resume.pdf)
 
-### Education
+### 🎓 Education
 #### Northwestern University, <small><i>McCormick School of Engineering</i></small>
 **M.S. in Computer Science**  
 *Evanston, IL*  
@@ -22,7 +22,7 @@ Sep. 2018 – Jun. 2022
 - Dean’s List: 2018-2022
 ---
 
-### Work Experiences
+### 🔬 Work Experiences
 #### Xenobot Lab, Northwestern University  
 **Researcher**  
 *Evanston, IL*  
@@ -49,7 +49,7 @@ May 2021 – Sep. 2021
 
 ---
 
-### Publications & Achievements
+### 🏆 Publications & Achievements
 - **Silver Medalist** in Kaggle Competition: LEAP - Atmospheric Physics using AI (ClimSim), July 2024. [Placed 47th out of 693 teams](https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim/discussion/523105).
 
 - "Freeform Endoskeletal Robot Design and Simulation" (in preparation). **Lingji Kong**, Muhan Li, Sam Kriegman. To be submitted to the *International Conference on Learning Representations (ICLR) 2025*.
@@ -58,7 +58,7 @@ May 2021 – Sep. 2021
 
 ---
 
-### Projects
+### 💼 Projects
 #### **Text-To-Soft-Toy Web Application**  
 **Northwestern University | Sep. – Dec. 2023**
 - Implemented text input bars and a 3D preview widget using JavaScript and CSS, enabling users to type prompts and select generated toy designs within the user interface.
@@ -96,7 +96,7 @@ May 2021 – Sep. 2021
 
 ---
 
-### Extracurricular Activities
+### 🎨 Extracurricular Activities
 #### “One Day” Project, Weget Magzine
 **Group Leader**  
 *Seattle, WA*  
