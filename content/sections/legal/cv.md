@@ -65,8 +65,6 @@ May 2021 – Sep. 2021
 - Developed an AWS Lambda function to process text prompts and generate 3D printable molds of toy designs in STL format, triggered by PUT events in the S3 bucket for uploading text files. Enabled users to pour silicone into these molds to create physical soft toys from their text prompts.
 - Leveraged PySQL for database interactions, supporting key operations such as file upload, download, and user management tasks including account creation, login, and account switching.
 
----
-
 #### **Fine-Tuning LLMs for Complex Tasks**  
 **Northwestern University | Jan. 2023– July 2024**
 - Fine-tuned GPT-2 with PyTorch and advanced prompt engineering on the MultipleQA datasets, achieving a 43% accuracy rate on multiple-choice questions.

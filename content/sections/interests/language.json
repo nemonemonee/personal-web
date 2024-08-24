@@ -1,21 +1,21 @@
 {
-    "interests": [
+    "languages": [
         {
-            "label": "AWS",
+            "label": "Python",
             "image": {
                 "src": "../../images/joystick.png",
                 "alt": ""
             }
         },
         {
-            "label": "Pytorch",
+            "label": "Java",
             "image": {
                 "src": "../../images/notebook.png",
                 "alt": ""
             }
         },
         {
-            "label": "LangChain",
+            "label": "C#",
             "image": {
                 "src": "../../images/joystick.png",
                 "alt": ""
@@ -23,7 +23,7 @@
             
         },
         {
-            "label": "Pandas",
+            "label": "JavaScript",
             "image": {
                 "src": "../../images/joystick.png",
                 "alt": ""
@@ -31,7 +31,7 @@
    
         },
         {
-            "label": "XGBoost",
+            "label": "TypeScript",
             "image": {
                 "src": "../../images/joystick.png",
                 "alt": ""
@@ -39,7 +39,7 @@
     
         },
         {
-            "label": "WebGL",
+            "label": "SQL",
             "image": {
                 "src": "../../images/joystick.png",
                 "alt": ""
@@ -47,24 +47,12 @@
  
         },
         {
-            "label": "Pytorch Lightning",
+            "label": "Bash",
             "image": {
                 "src": "../../images/joystick.png",
                 "alt": ""
             }
 
-        },
-        {
-            "label": "Polars",
-            "image": {
-                "src": "../../images/joystick.png",
-                "alt": ""
-            }
         }
-    ],
-    "button": {
-        "visible": true,
-        "label": "+ Load More",
-        "initiallyShownInterests": 5
-    }
+    ]
 }
