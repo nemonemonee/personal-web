@@ -1,5 +1,6 @@
 import React from "react";
 import {
+  Section,
   AboutSection,
   ArticlesSection,
   ContactSection,
