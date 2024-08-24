@@ -1,54 +1,11 @@
-<img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
+# LingJI's Personal Web
 
-<a href="https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme" target="_blank">
-<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud" />
-</a>
+This is the source code for my personal website, where I share my professional background, projects, work samples, and digital resume. 
 
-# Gatsby Starter Portfolio Minimal Theme
+### Tech Stack
+The website is developed using [Gatsby](https://www.gatsbyjs.com/) and hosted on [Netlify](https://www.netlify.com/), providing a fast and efficient way to present my portfolio. The design is based on the [Portfolio Minimal Theme](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal) template, offering a organized layout.
 
-#### A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.
-
-Portfolio Minimal is a Gatsby Theme that let's you create outstanding one-page portfolios within minutes. This Gatsby Starter is a boilerplate project that has the theme pre-installed and pre-configured.
-
-Just clone this Gatsby Starter, add the content. And that's it!
-
-[Live Demo on Gatsby Cloud](https://gatsbystarterportfoliominimalt.gatsbyjs.io/) · [Live Demo on Netlify](https://gatsby-starter-portfolio-minimal-theme.netlify.app/) · [Portfolio Minimal Theme on Github](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal)
-
----
-
-## Installation
-
-1. Install the Gatsby CLI
-
-   ```sh
-   npm install -g gatsby-cli
-   ```
-
-2. Create a new Gatsby site with the Portfolio Minimal Starter.
-
-   ```sh
-   gatsby new portfolio-minimal https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme
-   ```
-
-3. Once installed, you can begin developing your site.
-
-   ```sh
-   cd portfolio-minimal
-   gatsby develop
-   ```
-
-4. By default, the Portfolio Minimal Starter has a `content` directory at the root of your Gatsby site. There, you can edit the theme settings as well as add content for your sections. To learn more about it, have a look at the [Readme of Portfolio Minimal](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/tree/main/gatsby-theme-portfolio-minimal#readme).
-
----
-
-## Issues?
-
-If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
-
-Thanks a lot for using this starter! 💪
-
----
-
-<a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-Konstantin Münster – [konstantin.digital](https://konstantin.digital)
+### Contact
+- **Web URL:** [https://lingjik.netlify.app/](https://lingjik.netlify.app/)
+- **Email:** [lingjikong2024@u.northwestern.edu](mailto:lingjikong2024@u.northwestern.edu)
+- **Linkedln:** [https://www.linkedin.com/in/lingji-kong-b4686b244/](https://www.linkedin.com/in/lingji-kong-b4686b244/)
