@@ -15,46 +15,27 @@
             }
         },
         {
-            "label": "LangChain",
-            "image": {
-                "src": "../../images/nail-polish.png",
-                "alt": ""
-            }
+            "label": "LangChain"
+            
         },
         {
-            "label": "Pandas",
-            "image": {
-                "src": "../../images/medium.png",
-                "alt": ""
-            }
+            "label": "Pandas"
+   
         },
         {
-            "label": "XGBoost",
-            "image": {
-                "src": "../../images/gem-stone.png",
-                "alt": ""
-            }
+            "label": "XGBoost"
+    
         },
         {
-            "label": "WebGL",
-            "image": {
-                "src": "../../images/mobile-phone.png",
-                "alt": ""
-            }
+            "label": "WebGL"
+ 
         },
         {
-            "label": "Pytorch Lightning",
-            "image": {
-                "src": "../../images/gatsby.png",
-                "alt": ""
-            }
+            "label": "Pytorch Lightning"
+
         },
         {
-            "label": "Polars",
-            "image": {
-                "src": "../../images/high-voltage.png",
-                "alt": ""
-            }
+            "label": "Polars"
         }
     ],
     "button": {
