@@ -16,9 +16,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "image": "../content/images/name.jpg",
-            "imageDark": "../content/images/name_white.jpg"
-          },
+    "logo": { "image":  "../content/images/name_white.jpg"},
     "navigation": {
       "header": [
         { "label": "About Me", "url": "/#about" },

@@ -25,8 +25,8 @@ export default function IndexPage() {
         <ProjectsSection sectionId="projects" heading="Projects" />
         
         <Section heading="Skills">
-          <InterestsSection sectionId="languages" heading="Programming Languages" />
-          <InterestsSection sectionId="frameworks" heading="Frameworks" />
+          <InterestsSection sectionId="language" heading="Programming Languages" />
+          <InterestsSection sectionId="framework" heading="Frameworks" />
         </Section>
         
         <ContactSection sectionId="contact" heading="Contact" />
