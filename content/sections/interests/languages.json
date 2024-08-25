@@ -58,7 +58,7 @@
     ,
     "button": {
         "visible": false,
-        "label": "+ Load More",
+        "label": "Load More",
         "initiallyShownInterests": 7
     }
 }

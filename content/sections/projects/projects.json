@@ -9,7 +9,7 @@
       "image": {
         "src": "../../images/leap.png",
         "alt": "overview",
-        "linkTo": "https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim/overview"
+        "linkTo": "https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim/discussion/523105"
       },
       "links": [
         {
@@ -19,6 +19,28 @@
         {
           "type": "external",
           "url": "https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim/discussion/523105"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🎓 Academic Project",
+      "title": "Cross Domain Text Summarization",
+      "description": "CRAFT (CRoss-domain Abstractive Summarization through Incremental Fine-Tuning): This project developed a general model for cross-domain text summarization. The methodology involves incrementally fine-tuning the model using the k most similar documents from a diverse collection of datasets. By leveraging incremental fine-tuning, CRAFT adapts effectively to multiple domains. In testing, it outperformed the baseline PEGASUS on the CNN/DailyMail dataset, demonstrating its capability to generalize across various NLP tasks.",
+      "tags": ["NLP", "HuggingFace", "PyTorch"],
+      "image": {
+        "src": "../../images/craft.png",
+        "alt": "craft",
+        "linkTo": "/craft.pdf"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nemonemonee/cdts_dataset"
+        },
+        {
+          "type": "external",
+          "url": "/craft.pdf"
         }
       ]
     },
@@ -46,97 +68,59 @@
     },
     {
       "visible": true,
-      "category": "🎓 Academic Project",
-      "title": "on AWS",
-      "description": "...",
-      "tags": ["AWS"],
+      "category": "🌐 Web Application",
+      "title": "Text-To-Soft-Toy",
+      "description": "This project enables users to generate 3D printable molds for custom soft toys based on text prompts. When a phrase is entered, the system generates a voxel grid representing the toy’s morphology, which is then used to create a mold for 3D printing. After printing, users can pour silicone into the mold to create a physical soft toy. The backend was implemented using AWS Lambda for processing and S3 for storage, while the frontend includes interactive elements like text input bars and 3D previews.",
+      "tags": ["AWS", "PySQL", "3D Printing"],
       "image": {
-        "src": "",
+        "src": "../../images/toy.png",
         "alt": "overview",
         "linkTo": ""
       },
       "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/nemonemonee/"
-        },
-        {
-          "type": "external",
-          "url": ""
-        }
       ]
     },
     {
       "visible": true,
-      "category": "🎓 Academic Project",
-      "title": "Cross Domain Text Summarization",
-      "description": "...",
-      "tags": ["NLP"],
+      "category": "🎮 Game Demo",
+      "title": "3D Farming Simulator",
+      "description": "After spending countless hours immersed in Stardew Valley, I envisioned a 3D farming simulation experience. To bring this vision to life, I independently developed a 3D game demo using Unity and C#. The demo captures the essence of farming in a fully interactive 3D world. The project showcases my skills in game development, from designing the landscape to coding the game mechanics.",
+      "tags": ["Game Development", "Unity", "C#"],
       "image": {
-        "src": "",
+        "src": "../../images/farm.png",
         "alt": "overview",
-        "linkTo": ""
+        "linkTo": "farm"
       },
       "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/nemonemonee/"
-        },
-        {
-          "type": "external",
-          "url": ""
-        }
       ]
     },
     {
       "visible": true,
       "category": "🎓 Academic Project",
       "title": "Evolving Robots",
-      "description": "...",
-      "tags": ["NLP"],
+      "description": "One approach to creating robots with optimal performance is through artificial evolution. In this experiment, we utilized this approach by allowing a computer to randomly generate robots and evolve them over hundreds of generations, with the ultimate goal of achieving good performance on a specific task. The task at hand was to move in an environment with high gravitational force (g=200), with the robot’s performance determined by its absolute movement on the xy-plane.",
+      "tags": ["evolutionary algorithms", "robotics", "simulation"],
       "image": {
-        "src": "",
-        "alt": "overview",
-        "linkTo": ""
+        "src": "../../images/walk.png",
+        "alt": "bot",
+        "linkTo": "https://nemonemonee.github.io/walking_bot/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/nemonemonee/"
+          "url": "https://nemonemonee.github.io/walking_bot/"
         },
         {
-          "type": "external",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🎓 Academic Project",
-      "title": "Farming Simulator",
-      "description": "...",
-      "tags": ["Game Development", "Unity", "C#"],
-      "image": {
-        "src": "",
-        "alt": "overview",
-        "linkTo": ""
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/nemonemonee/"
-        },
-        {
-          "type": "external",
-          "url": ""
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=1gSxRvCEQ8g"
         }
       ]
     }
   ]
   ,
     "button": {
-        "visible": true,
-        "label": "+ Load More +",
-        "initiallyShownProjects": 3
+        "visible": false,
+        "label": "Load More",
+        "initiallyShownProjects": 10
     }
 }

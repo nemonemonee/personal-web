@@ -32,7 +32,7 @@
   ,
     "button": {
         "visible": false,
-        "label": "+ Load More +",
+        "label": "Load More",
         "initiallyShownProjects": 3
     }
 }

@@ -58,7 +58,7 @@ May 2021 – Sep. 2021
 
 ---
 
-### 💼 Projects
+### 💻  Projects
 #### **Text-To-Soft-Toy Web Application**  
 **Northwestern University | Sep. – Dec. 2023**
 - Implemented text input bars and a 3D preview widget using JavaScript and CSS, enabling users to type prompts and select generated toy designs within the user interface.
