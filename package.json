@@ -1,45 +1,20 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
-  "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
-  "scripts": {
-    "clean": "gatsby clean",
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "dependencies": {
-    "ajv": "^6.12.6",
-    "ajv-keywords": "^3.5.2",
-    "gatsby": "^5.0.1",
-    "gatsby-theme-portfolio-minimal": "latest",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
-  "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
-  },
-  "keywords": [
-    "react",
-    "gatsby",
-    "gatsby-theme",
-    "PWA",
-    "portfolio",
-    "showcase",
-    "minimal",
-    "animations",
-    "dark-mode",
-    "gdpr-compliant"
-  ]
+    "private": true,
+    "name": "lingji",
+    "version": "0.1.0",
+    "license": "MIT",
+    "scripts": {
+        "build": "gatsby build",
+        "develop": "gatsby develop",
+        "serve": "gatsby serve",
+        "clean": "gatsby clean",
+        "test": "echo \"Nothing to test here\"",
+        "lint": "echo \"Nothing to do here\""
+    },
+    "dependencies": {
+        "gatsby": "^5.13.7",
+        "gatsby-theme-portfolio-minimal": "github:nemonemonee/gatsby-theme-portfolio-minimal",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    }
 }

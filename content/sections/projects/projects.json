@@ -1,50 +1,4 @@
 {
-  "current": [
-    {
-      "visible": true,
-      "category": "🎓 Research Project",
-      "title": "Text-To-Robot",
-      "description": "...",
-      "tags": ["AWS"],
-      "image": {
-        "src": "",
-        "alt": "overview",
-        "linkTo": ""
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/nemonemonee/"
-        },
-        {
-          "type": "external",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🎓 Research Project",
-      "title": "Freeform",
-      "description": "...",
-      "tags": ["NLP"],
-      "image": {
-        "src": "",
-        "alt": "overview",
-        "linkTo": ""
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/nemonemonee/"
-        },
-        {
-          "type": "external",
-          "url": ""
-        }
-      ]
-    }
-  ],
   "projects": [
     {
       "visible": true,
@@ -179,4 +133,10 @@
       ]
     }
   ]
+  ,
+    "button": {
+        "visible": true,
+        "label": "+ Load More +",
+        "initiallyShownProjects": 3
+    }
 }

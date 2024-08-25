@@ -16,12 +16,11 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "image":  "../content/images/name_white.jpg"},
+    "logo": { "text": "LingJi","image": "../content/images/name_white.png"},
     "navigation": {
       "header": [
         { "label": "About Me", "url": "/#about" },
-        { "label": "Projects", "url": "/blog" },
-        { "label": "Publications", "url": "/#features" },
+        { "label": "Projects", "url": "/#projects" },
         { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
@@ -34,7 +33,7 @@
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
+      "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }

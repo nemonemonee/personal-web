@@ -1,48 +1,38 @@
 {
-  "current": [
+  "projects": [
     {
       "visible": true,
-      "category": "🎓 Research Project",
-      "title": "Text-To-Robot",
-      "description": "...",
-      "tags": ["AWS"],
+      "category": "🔬 Research Project",
+      "title": "Endoskeletal Robot Simulation",
+      "description": "To be submitted to the *International Conference on Learning Representations (ICLR) 2025*",
+      "tags": ["Gnerative Models", "Bayesian Optimization", "Evolutionary Algorithms"],
       "image": {
-        "src": "",
-        "alt": "overview",
+        "src": "../../images/endo.png",
+        "alt": "endo",
         "linkTo": ""
       },
       "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/nemonemonee/"
-        },
-        {
-          "type": "external",
-          "url": ""
-        }
       ]
     },
     {
       "visible": true,
-      "category": "🎓 Research Project",
-      "title": "Freeform",
-      "description": "...",
-      "tags": ["NLP"],
+      "category": "🔬 Research Project",
+      "title": "Text-To-Robot",
+      "description": "Text-to-Robot leverages text prompts to automatically generate robot designs and training reward functions.",
+      "tags": ["LLMs", "LangChain", "Text-To-3D", "Robotics"],
       "image": {
-        "src": "",
-        "alt": "overview",
+        "src": "../../images/t2r.png",
+        "alt": "t2r",
         "linkTo": ""
       },
       "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/nemonemonee/"
-        },
-        {
-          "type": "external",
-          "url": ""
-        }
       ]
     }
   ]
+  ,
+    "button": {
+        "visible": false,
+        "label": "+ Load More +",
+        "initiallyShownProjects": 3
+    }
 }

@@ -1,58 +1,64 @@
 {
-    "language": [
+    "interests": [
         {
             "label": "Python",
             "image": {
-                "src": "../../images/joystick.png",
-                "alt": ""
+                "src": "../../images/python.png",
+                "alt": "python"
             }
         },
         {
             "label": "Java",
             "image": {
-                "src": "../../images/notebook.png",
-                "alt": ""
+                "src": "../../images/java.png",
+                "alt": "java"
             }
         },
         {
             "label": "C#",
             "image": {
-                "src": "../../images/joystick.png",
-                "alt": ""
+                "src": "../../images/c#.png",
+                "alt": "c#"
             }
             
         },
         {
             "label": "JavaScript",
             "image": {
-                "src": "../../images/joystick.png",
-                "alt": ""
+                "src": "../../images/js.png",
+                "alt": "js"
             }
    
         },
         {
             "label": "TypeScript",
             "image": {
-                "src": "../../images/joystick.png",
-                "alt": ""
+                "src": "../../images/Ts.png",
+                "alt": "ts"
             }
     
         },
         {
             "label": "SQL",
             "image": {
-                "src": "../../images/joystick.png",
-                "alt": ""
+                "src": "../../images/sql.png",
+                "alt": "sql"
             }
  
         },
         {
             "label": "Bash",
             "image": {
-                "src": "../../images/joystick.png",
+                "src": "../../images/bash.png",
                 "alt": ""
             }
 
         }
     ]
+    ,
+    "button": {
+        "visible": false,
+        "label": "+ Load More",
+        "initiallyShownInterests": 7
+    }
 }

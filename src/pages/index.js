@@ -2,7 +2,6 @@ import React from "react";
 import {
   Section,
   AboutSection,
-  ArticlesSection,
   ContactSection,
   HeroSection,
   InterestsSection,
@@ -18,17 +17,13 @@ export default function IndexPage() {
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Me" />
-        {/* <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} /> */}
-        {/* <ProjectsSection sectionId="ongoingprojects" heading="OnGoing Projects" /> */}
-        {/* <ProjectsSection sectionId="current_projects" heading="Ongoing Projects" /> */}
-        <ProjectsSection sectionId="current" heading="Ongoing Research" />
-        <ProjectsSection sectionId="projects" heading="Projects" />
-        
+        <ProjectsSection sectionId="current" heading="Ongoing Research" fileName="current"/>
+        <ProjectsSection sectionId="projects" heading="Projects" fileName="projects"/>
         <Section heading="Skills">
-          <InterestsSection sectionId="language" heading="Programming Languages" />
-          <InterestsSection sectionId="framework" heading="Frameworks" />
+          <InterestsSection sectionId="languages" heading="Programming Languages" fileName="languages" />
+          <InterestsSection sectionId="frameworks" heading="Frameworks" fileName="frameworks" />
+          <InterestsSection sectionId="data" heading="Data Analysis Tool" fileName="data" />
         </Section>
-        
         <ContactSection sectionId="contact" heading="Contact" />
         
       </Page>

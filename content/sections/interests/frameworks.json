@@ -1,0 +1,57 @@
+{
+    "interests": [
+        {
+            "label": "AWS",
+            "image": {
+                "src": "../../images/aws.png",
+                "alt": "aws"
+            }
+        },
+        {
+            "label": "PyTorch",
+            "image": {
+                "src": "../../images/pytorch.png",
+                "alt": "pt"
+            }
+            
+        },
+        {
+            "label": "PyTorch Lightning",
+            "image": {
+                "src": "../../images/plit.png",
+                "alt": "plit"
+            }
+   
+        },
+        {
+            "label": "HuggingFace",
+            "image": {
+                "src": "../../images/hf.png",
+                "alt": "hf"
+            }
+    
+        },
+        {
+            "label": "LangChain",
+            "image": {
+                "src": "../../images/langchain.png",
+                "alt": ""
+            }
+    
+        },
+        {
+            "label": "Docker",
+            "image": {
+                "src": "../../images/docker.png",
+                "alt": ""
+            }
+ 
+        }
+    ]
+    ,
+    "button": {
+        "visible": true,
+        "label": "+ Load More",
+        "initiallyShownInterests": 7
+    }
+}

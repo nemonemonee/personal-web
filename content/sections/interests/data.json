@@ -1,0 +1,31 @@
+{
+    "interests": [
+        {
+            "label": "R",
+            "image": {
+                "src": "../../images/r.png",
+                "alt": "r"
+            }
+        },
+        {
+            "label": "Matlab",
+            "image": {
+                "src": "../../images/matlab.png",
+                "alt": "matlab"
+            }
+        },
+        {
+            "label": "Pandas",
+            "image": {
+                "src": "../../images/python.png",
+                "alt": "pandas"
+            }
+        }
+    ]
+    ,
+    "button": {
+        "visible": false,
+        "label": "+ Load More",
+        "initiallyShownInterests": 5
+    }
+}
